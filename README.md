@@ -41,3 +41,9 @@ python3 -m http.server 8000
 ```
 
 Built by [Akash Vishwakarma](https://github.com/AKASH991833). Free to use — no sign-up, no card.
+
+
+## Stacks
+
+- **Live demo (this repo root):** HTML/CSS/JS — browser shot detection and Web Speech transcription.
+- **Python pipeline (`python/`):** PySceneDetect + faster-whisper + OpenCV keyframes for real scene detection and real transcription. See `python/README.md`.
