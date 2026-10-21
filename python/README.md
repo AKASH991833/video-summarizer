@@ -1,5 +1,8 @@
 # Python version (PySceneDetect + faster-whisper)
 
+> Part of **[video-summarizer](https://github.com/AKASH991833/video-summarizer)** — live browser demo: https://akash991833.github.io/video-summarizer/ · screenshots in the repo-root `screenshots/` folder.
+
+
 The Pages demo is a capable browser approximation. This folder is the proper
 pipeline: real scene detection, real Whisper transcription, real keyframes,
 and an extractive overview (sentences picked from the transcript — never an
